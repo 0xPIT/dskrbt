@@ -4,6 +4,12 @@ As Simple as Possible CD/ DVD Disk Changer Robot
 
 `This is a work in progress`
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+
+
+- https://github.com/0xPIT/dskrbt
+- http://www.thingiverse.com/thing:97291
+
 ### What?
 
 I intend to archive all of my several hundred audio CDs to gain shelf space. So I try to build a small robot that
