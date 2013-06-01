@@ -18,6 +18,8 @@ I intend to archive all of my several hundred audio CDs to gain shelf space. So 
 - buildable from cheap, standard or scrap, plus 3D printed parts
 - small size, can be stowed away
 
+![Status](http://thingiverse-production.s3.amazonaws.com/renders/82/27/06/aa/85/P1020512_2_preview_featured.jpg)
+![Status](http://thingiverse-production.s3.amazonaws.com/renders/7f/3d/3c/7c/c6/P1020511_preview_featured.jpg)
 
 ### Design
 
