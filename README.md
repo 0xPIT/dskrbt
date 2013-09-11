@@ -68,13 +68,15 @@ Like most commercial units, I believe that a beam with a grabber mechanism shoul
 
 
 ### Status
-
-- 2013-05-30
-    - completed mechanical prototype
+- 2013-08-27
+  - avr & pololus replaced, devised simple robot arm calibration strategy
 - 2013-05-31
   - tested mechanics with grbl. works nicely. Set motors to ~500mA each.
   - messed with the cables: fried avr and pololus (got 12V on VDD)
   - Ordered replacements
+- 2013-05-30
+    - completed mechanical prototype
+
 
 
 
